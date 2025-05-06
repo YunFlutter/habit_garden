@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523143969980",
+    "project_id": "habit-garden-805fc",
+    "storage_bucket": "habit-garden-805fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523143969980:android:c43d8055b05243ccf424b9",
+        "android_client_info": {
+          "package_name": "com.yunseo.habit_garden"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0FlfT4ujZYiVzJsh4GOeHZMsRWgLNWbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
